@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Automat_komorkowy">
+    <output-path>$PROJECT_DIR$/out/artifacts/Automat_komorkowy</output-path>
+    <root id="root">
+      <element id="archive" name="Automat_komorkowy.jar">
+        <element id="module-output" name="Automat_komorkowy" />
+      </element>
+    </root>
+  </artifact>
+</component>
